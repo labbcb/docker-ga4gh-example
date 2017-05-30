@@ -1,6 +1,6 @@
-# welliton/ga4gh-example:0.3.6
+# welliton/ga4gh-example:v0.3.6
 
-FROM welliton/ga4gh-server:0.3.6
+FROM welliton/ga4gh-server:v0.3.6
 
 MAINTAINER Welliton Souza <well309@gmail.com>
 
